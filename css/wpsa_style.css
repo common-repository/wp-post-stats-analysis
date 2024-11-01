@@ -1,0 +1,48 @@
+.wpsa-style-table {
+	
+	padding:10px;
+	margin-top:15px;
+	
+} 
+.wpsa-style-table-col{
+	
+ background-color:#c0caea;
+	
+} 
+
+.wpsa-style-table td, .wpsa-style-table th{
+	
+	    border-bottom: 1px solid #848fb3 !important;
+		vertical-align: middle  !important;
+}
+
+.wpsa-lg-font{
+	
+	font-size:20px !important;
+}
+
+.wpsa-sm-font{
+	
+	font-size:14px !important;
+}
+.wpsa-add-pad-left{
+	
+	padding-left:15px !important;
+}
+.wpsa-sm-font-info{
+	
+	font-size:11px !important;
+	
+}
+
+.wpsa-number-font{
+		font-size:24px !important;
+
+	
+}
+
+
+.wpsa_icon_insert  {
+    content: "\f109";
+}
+ 
